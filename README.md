@@ -1,2 +1,2 @@
-# EMS506U_Mirror
- This is a mirror of IT class materials for module EMS506U
+Teaching material for module EMS506U Computational Methods and Data Science in Engineering
+
